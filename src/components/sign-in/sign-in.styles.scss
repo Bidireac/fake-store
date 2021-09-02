@@ -1,0 +1,28 @@
+.SignIn {
+  padding-top: 60px;
+
+  & h1 {
+    font-size: 24px;
+    padding: 30px;
+  }
+
+  & form {
+    padding: 20px;
+    width: 60%;
+    min-width: 400px;
+    height: 100%;
+    margin: auto;
+    text-align: start;
+  }
+
+  .SignIn-buttons {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    & button {
+      margin: 10px;
+    }
+  }
+}

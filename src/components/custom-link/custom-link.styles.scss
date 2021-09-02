@@ -1,0 +1,24 @@
+.CustomLink {
+  position: absolute;
+  width: 160px;
+  height: 70px;
+  top: 40%;
+  left: 40%;
+  border: none;
+  background-color: #fafafa6e;
+  border: 1px solid #fafafa;
+  font-size: 18px;
+  padding: 5px;
+  font-weight: bold;
+  text-transform: capitalize;
+  text-decoration: none;
+  color: #1b1818;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  &:hover {
+    color: #1b1818;
+    background-color: #fafafa;
+  }
+}
