@@ -1,4 +1,4 @@
-# Calculator
+# Fake Store
 > E-commerce website using Firebase and Redux
 
 ## Table of Contents
